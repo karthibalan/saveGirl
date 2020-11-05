@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52204163405",
+    "firebase_url": "https://savegirl-ae10e.firebaseio.com",
+    "project_id": "savegirl-ae10e",
+    "storage_bucket": "savegirl-ae10e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52204163405:android:c81b3f2c46562d8a552704",
+        "android_client_info": {
+          "package_name": "com.example.savegirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52204163405-9p1rhbj8qe3v25qjl0r5d62840nvp0ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savegirl",
+            "certificate_hash": "5334ee17e8acdfa4dbf564b156e7e52670cf8cf8"
+          }
+        },
+        {
+          "client_id": "52204163405-9rj36d43ciddk0c29331adp5aqdp0e92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgBDI98fbwtcTiBtnOJ9uD5T81ixns64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52204163405-9rj36d43ciddk0c29331adp5aqdp0e92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
